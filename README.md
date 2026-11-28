@@ -1,6 +1,6 @@
 # M7880H Intercom Module · Communication
 
-Ward-Beck Systems M7880H, 1994|27. Wiki page: [M7880H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7880H.html)
+Ward-Beck Systems M7880H, 1994|27. Wiki page: [M7880H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
